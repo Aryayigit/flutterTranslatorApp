@@ -1,6 +1,6 @@
 # fluttertranslatorapp
 
-A new Flutter project.
+A new my Flutter project.
 
 ## Getting Started
 
