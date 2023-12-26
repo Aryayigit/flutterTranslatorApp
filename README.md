@@ -39,6 +39,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 ```bash
 $ flutter run
 ```
+<br>
 
 <p align="center">
     <img src="/simulator.png" width="30%"></a> <br>
@@ -46,6 +47,6 @@ $ flutter run
 </p>
 
 <p align="center">
- <video src='/simulatorVideo.mp4' width="30%">
+ <video src='/simulatorVideo.mp4' width=100/>
    Example of Application
 </p>
