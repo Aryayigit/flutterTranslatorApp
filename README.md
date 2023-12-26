@@ -47,6 +47,6 @@ $ flutter run
 </p>
 
 <p align="center">
- <video src='/simulatorVideo.mp4' width=100/>
+ <video src='/simulatorVideo.mp4' width="30%"/>
    Example of Application
 </p>
