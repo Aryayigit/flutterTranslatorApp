@@ -44,3 +44,8 @@ $ flutter run
     <img src="/simulator.png" width="30%"></a> <br>
     Example of Application
 </p>
+
+<p align="center">
+ <video src='/simulatorVideo.mp4' width="30%">
+   Example of Application
+</p>
