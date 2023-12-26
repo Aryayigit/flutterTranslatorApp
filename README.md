@@ -41,6 +41,6 @@ $ flutter run
 ```
 
 <p align="center">
-    <img src="/simulator.png" width="105%"></a> <br>
+    <img src="/simulator.png" width="30%"></a> <br>
     Example of Application
 </p>
