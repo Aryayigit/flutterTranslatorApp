@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:html_unescape/html_unescape_small.dart';
 import 'package:http/http.dart' as http;
 
-//git vers
+//
 void main() => runApp(const MyApp());
 
 class MyApp extends StatelessWidget {
@@ -66,7 +66,7 @@ class _MainPageState extends State<MainPage> {
                   hintText: 'Enter text',
                 ),
                 onChanged: (text) async {
-                  const apiKey = 'AIzaSyAb3rd5b-l-oTlHoxtJ3vYAKKis2UqXl3c ';
+                  const apiKey = 'API_KEY ';
                   const to = 'tr';
                   final url = Uri.parse(
                     'https://translation.googleapis.com/language/translate/v2'
