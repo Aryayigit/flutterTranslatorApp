@@ -66,7 +66,7 @@ class _MainPageState extends State<MainPage> {
                   hintText: 'Enter text',
                 ),
                 onChanged: (text) async {
-                  const apiKey = 'API_KEY';
+                  const apiKey = 'AIzaSyAb3rd5b-l-oTlHoxtJ3vYAKKis2UqXl3c ';
                   const to = 'tr';
                   final url = Uri.parse(
                     'https://translation.googleapis.com/language/translate/v2'

@@ -1,16 +1,46 @@
 # fluttertranslatorapp
 
-A new my Flutter project.
+Flutter Translator App /w Google Translate API
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Open app with your IDE
 
-A few resources to get you started if this is your first Flutter project:
+Add your API_KEY 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Import SharedPreferences packets
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### How to install SharedPreferences packets
+
+Depend on it
+Run this command:
+
+With Flutter:
+```bash
+$ flutter pub add shared_preferences
+```
+
+This will add a line like this to your package's pubspec.yaml (and run an implicit flutter pub get):
+
+```
+dependencies:
+  shared_preferences: ^2.2.2
+```
+Alternatively, your editor might support flutter pub get. Check the docs for your editor to learn more.
+
+Import it
+Now in your Dart code, you can use:
+```
+import 'package:shared_preferences/shared_preferences.dart';
+```
+### Lastly
+```bash
+$ flutter run
+```
+
+<p align="center">
+    <img src="/simulator.png" width="105%"></a> <br>
+    Example of Application
+</p>
